@@ -2,7 +2,7 @@
 Request for Information on GSA Supplier Portal agile development services
 
 ## Attachments
-- [Attachment A](x). Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48
+- [Attachment A]((https://github.com/GSA/supplier-portal-rfi/blob/main/Attachment%20A_Security%20and%20Privacy%20Requirements%20for%20IT%20Acquisition%20Efforts%20CIO-IT%20Security-09-48.pdf). Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48
 - [Attachment B](x). Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30
 - [Attachment C](). CIO 21001N GSA Information Technology Security Policy
 - [Attachment D](). CIO IT Policy Requirements Guide -12-2018
