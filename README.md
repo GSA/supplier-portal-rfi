@@ -1,5 +1,5 @@
 # Supplier Portal – Request for Information
-Request for Information on GSA Supplier Portal agile development services. [Supplier portal instructions](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20Solicitation%20Instructions%20Draft%20RFQ.pdf). 
+Request for Information on GSA Supplier Portal agile development services. [Supplier portal solicitation instructions](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20Solicitation%20Instructions%20Draft%20RFQ.pdf). 
 
 ## Attachments
 - [Attachment 1](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20SOO.pdf). Statement of Objectives (SOO) 
