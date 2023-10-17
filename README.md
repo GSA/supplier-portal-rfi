@@ -13,7 +13,7 @@ Request for Information on GSA Supplier Portal agile development services
 - [Attachment E](https://github.com/GSA/supplier-portal-rfi/blob/main/CIO-12-2018%20Revision%202%20Final_%20IT%20Policy%20Requirements%20Guide.pdf). CIO IT Policy Requirements Guide -12-2018
 - [Attachment F](https://github.com/GSA/supplier-portal-rfi/blob/main/Conflict%20of%20Interest.docx). Potential Organizational Conflict of Interest
   - To download Microsoft Word document, please click `View raw`. 
-- [Attachment G](X). Supplier journey narrative (supplier portal)
+- [Attachment G](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Journey%20Narrative%20(Supplier%20Portal).pdf). Supplier journey narrative (supplier portal)
 - [Attachment H](X). CO-CS narrative (supplier portal)
 - [Attachment I](X). Description of FAS Acquisition Applications for Supplier Portal
 - [Attachment J](X). Sample Supplier Portal non-functional requirements
