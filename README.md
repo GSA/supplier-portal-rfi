@@ -11,7 +11,7 @@ Request for Information on GSA Supplier Portal agile development services
 - [Attachment C](https://github.com/GSA/supplier-portal-rfi/blob/main/Managing%20Enterprise%20Cybersecurity%20Risk%20CIO-IT%20Security-06-30.pdf). Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30
 - [Attachment D](https://github.com/GSA/supplier-portal-rfi/blob/main/CIO_21001N_GSA_Information_Technology_Security_Policy.pdf). CIO 21001N GSA Information Technology Security Policy
 - [Attachment E](https://github.com/GSA/supplier-portal-rfi/blob/main/CIO-12-2018%20Revision%202%20Final_%20IT%20Policy%20Requirements%20Guide.pdf). CIO IT Policy Requirements Guide -12-2018
-- [Attachment F](x). Potential Organizational Conflict of Interest
+- [Attachment F](https://github.com/GSA/supplier-portal-rfi/blob/main/Conflict%20of%20Interest.docx). Potential Organizational Conflict of Interest
   - To download Microsoft Word document, please click `View raw`. 
 - [Attachment G](X). Supplier journey narrative (supplier portal)
 - [Attachment H](X). CO-CS narrative (supplier portal)
