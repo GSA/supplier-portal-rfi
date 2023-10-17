@@ -17,4 +17,4 @@ Request for Information on GSA Supplier Portal agile development services
 - [Attachment H](https://github.com/GSA/supplier-portal-rfi/blob/main/CO-CS%20User%20Journey%20Narrative%20(Supplier%20Portal).pdf). CO-CS journey narrative (supplier portal)
 - [Attachment I](https://github.com/GSA/supplier-portal-rfi/blob/main/Description%20of%20FAS%20Acquisition%20Applications%20for%20Supplier%20Portal.pdf). Description of FAS Acquisition Applications for Supplier Portal
 - [Attachment J](https://github.com/GSA/supplier-portal-rfi/blob/main/Sample%20of%20Top%20NFRs%20for%20Supplier%20Portal.pdf). Sample Supplier Portal non-functional requirements
-- [Attachment K](X). Supplier Portal acronym and term definitions
+- [Attachment K](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20RFQ%20Acronym%20and%20Term%20Defintions.pdf). Supplier Portal acronym and term definitions
