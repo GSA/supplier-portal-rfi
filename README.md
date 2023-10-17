@@ -5,7 +5,7 @@ Request for Information on GSA Supplier Portal agile development services
 - [Attachment 1](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20SOO.pdf). Statement of Objectives (SOO). 
 - [Attachment 2](https://github.com/GSA/supplier-portal-rfi/blob/main/Supplier%20Portal%20SIP.xlsx). Schedule of items and prices (SIP).
   - - To download Microsoft Excel document, please click `View raw`. 
-- [Attachment 3](x). NDAA Section 889 reps and clauses. 
+- [Attachment 3](https://github.com/GSA/supplier-portal-rfi/blob/main/NDAA%20Section%20889%20Reps%20%26%20Clauses%20.pdf). NDAA Section 889 reps and clauses. 
 - [Attachment A](X). Non-disclosure agreeement. 
 - [Attachment B](x). Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48
 - [Attachment C](x). Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30
